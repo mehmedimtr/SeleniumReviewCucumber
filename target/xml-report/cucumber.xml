@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="52">
+<testcase classname="Amazon Urun Arama" name="TC06_kullanici amazonda urun aramasi yapar" time="18.129">
+<system-out><![CDATA[Given kullanici "https://amazon.com" sayfaya gider..........................passed
+And kullanici arama kutusuna "headphones" yazar.............................passed
+Then kullanici sonucsayisini ekrana yazdirir................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Amazon Urun Arama" name="TC06_kullanici amazonda urun aramasi yapar 2" time="16.054">
+<system-out><![CDATA[Given kullanici "https://amazon.com" sayfaya gider..........................passed
+And kullanici arama kutusuna "tv" yazar.....................................passed
+Then kullanici sonucsayisini ekrana yazdirir................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Amazon Urun Arama" name="TC06_kullanici amazonda urun aramasi yapar 3" time="16.558">
+<system-out><![CDATA[Given kullanici "https://amazon.com" sayfaya gider..........................passed
+And kullanici arama kutusuna "sponge" yazar.................................passed
+Then kullanici sonucsayisini ekrana yazdirir................................passed
+]]></system-out>
+</testcase>
+</testsuite>
